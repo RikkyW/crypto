@@ -3,8 +3,5 @@
   "symbol": "EMC",
   "description": "Earthium Market Coin",
   "image": "https://raw.githubusercontent.com/RikkyW/crypto/main/Earthium_Logo.png",
-  "external_url": "https://placeholder.com",
-  "attributes": [
-    { "trait_type": "Purpose", "value": "Trading" }
-  ]
+  "external_url": "https://placeholder.com"
 }
